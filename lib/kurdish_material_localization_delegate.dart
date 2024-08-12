@@ -581,6 +581,14 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
   @override
   // TODO: implement shareButtonLabel
   String get shareButtonLabel => '';
+
+  @override
+  // TODO: implement clearButtonTooltip
+  String get clearButtonTooltip => '';
+
+  @override
+  // TODO: implement selectedDateLabel
+  String get selectedDateLabel => '';
 }
 
 const kuDateSymbols = {
