@@ -52,4 +52,32 @@ class KurdishWidgetLocalizations extends WidgetsLocalizations {
   @override
   // TODO: implement reorderItemUp
   String get reorderItemUp => '';
+
+  @override
+  // TODO: implement copyButtonLabel
+  String get copyButtonLabel => "";
+
+  @override
+  // TODO: implement cutButtonLabel
+  String get cutButtonLabel => "";
+
+  @override
+  // TODO: implement lookUpButtonLabel
+  String get lookUpButtonLabel => "";
+
+  @override
+  // TODO: implement pasteButtonLabel
+  String get pasteButtonLabel => "";
+
+  @override
+  // TODO: implement searchWebButtonLabel
+  String get searchWebButtonLabel => "";
+
+  @override
+  // TODO: implement selectAllButtonLabel
+  String get selectAllButtonLabel => "";
+
+  @override
+  // TODO: implement shareButtonLabel
+  String get shareButtonLabel => "";
 }
